@@ -1,6 +1,6 @@
 # BlokWeb
 Mon websito for front-end ins Blok Web.
-https://rkaellen.github.io/BlokWeb/
+https://github.com/Rkaellen/BlokWeb
 wreee
 
 # Procesverslag
@@ -21,14 +21,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Shanna Gangadien
+Thien An Nguyen
 
 #### Je startniveau:
 Blauw
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
- 
+Surface plane
+ 1. Video/Geluid
+ 2. Dark/Light mode
+ 3. Custom themes
+ 4. Animaties
+ 5.
 </details>
 
 
@@ -41,15 +45,16 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+ Website namaken.
+https://gogoanime.vc/category/kimetsu-no-yaiba
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Anime summary pagina 
+<img src="images/ss2" width="375px" alt="omschrijving van de anime kimetsu no yaiba">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Anime episode pagina  
+<img src="images/ss1" width="375px" alt="kijk de eerste episode van kimetsu no yaiba">
  
 </details>
 

@@ -1,8 +1,3 @@
-# BlokWeb
-Mon websito for front-end ins Blok Web.
-https://github.com/Rkaellen/BlokWeb
-wreee
-
 # Procesverslag
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
@@ -21,18 +16,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Thien An Nguyen
+Sanne 't Hooft (vervangen door jouw naam)
 
 #### Je startniveau:
-Blauw
+hier je startniveau (kies uit zwart, rood óf blauw)
 
 #### Je focus:
-Surface plane
- 1. Video/Geluid
- 2. Dark/Light mode
- 3. Custom themes
- 4. Animaties
- 5.
+hier je focus (kies uit responsive óf surface plane)
+ 
 </details>
 
 
@@ -45,16 +36,15 @@ Surface plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
- Website namaken.
-https://gogoanime.vc/category/kimetsu-no-yaiba
+link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Anime summary pagina 
-<img src="images/ss2" width="375px" alt="omschrijving van de anime kimetsu no yaiba">
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Anime episode pagina  
-<img src="images/ss1" width="375px" alt="kijk de eerste episode van kimetsu no yaiba">
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 

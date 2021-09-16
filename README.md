@@ -23,28 +23,23 @@ Blauw
 
 #### Je focus:
 Surface plane
- 
-</details>
 
-
-
-
+ 1. Video/Geluid 
+ 2. Dark/Light mode 
+ 3. Custom themes 
+ 4. Animaties 
+ 5.
 
 ## Je website
-
-<details open>
-<summary>uitwerken voor kick-off werkgroep</summary>
-
-### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://gogoanime.pe/category/kimetsu-no-yaiba
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/ss1" width="375px" alt="omschrijving van de anime">
+Anime summary page 
+<img src="images/ss1.jpg" alt="omschrijving van de anime">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/ss2" width="375px" alt="episode pagina">
+Episode page  
+<img src="images/ss2.jpg" alt="episode pagina">
  
 </details>
 
